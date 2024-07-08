@@ -57,7 +57,7 @@ void pokemon_quiz() {
     reveal_hidden_link();
 }
 
-// Function to reveal hidden link
+
 void reveal_hidden_link() {
     printf("\n");
     printf("Congratulations! You found the hidden link!\n");
