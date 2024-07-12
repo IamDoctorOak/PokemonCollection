@@ -62,7 +62,7 @@ void reveal_hidden_link() {
     printf("\n");
     printf("Congratulations! You found the hidden link!\n");
     printf("Click here to access the hidden Pokémon site: ");
-    printf("https://drive.google.com/file/d/1zQiwHpv7qQw_VN4ERV5_4XDc1FuZJ5kN/view?usp=sharing\n");
+    printf("https://drive.google.com/file/d/1qF9pzvhWGMxEvtobnDr7hwdkqM2wKHZU/view?usp=sharing \n");
 }
 
 int main() {
